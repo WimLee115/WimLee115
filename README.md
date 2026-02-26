@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0b7fdb&height=300&section=header&text=WimLee115&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%E2%80%A2%20Industrial%20IoT%20%E2%80%A2%20AI%20%E2%80%A2%20Energy%20Tech&descSize=18&descAlignY=55&descColor=58a6ff" width="100%" />
 
+
+
 <div align="center">
+
+
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0B7FDB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%87%B3%F0%9F%87%B1+Solo+engineer+from+the+Netherlands;Building+AI-IDLE+%E2%80%94+284%2C000%2B+lines+of+code;4+autonomous+AI+agents+%E2%80%A2+97+database+models;MQTT+%E2%80%A2+Edge+Computing+%E2%80%A2+Demand+Response" alt="Typing SVG" />
 
