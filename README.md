@@ -91,6 +91,20 @@ const wimlee = {
 
 <table>
 <tr>
+<td width="100%" colspan="2" valign="top">
+
+### [Dossier 608](https://wimlee115.github.io/Dossier-608/) — Openbare bronnen onderzoek bewindvoering
+<sub>14 kantoren, 1 klacht, meer dan 70 pagina's verdwenen</sub>
+
+<img src="https://img.shields.io/badge/14_kantoren-onderzocht-DC382D?style=flat-square" /> <img src="https://img.shields.io/badge/70+_pagina's-verdwenen-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/439K+_scans-gemonitord-0b7fdb?style=flat-square" /> <img src="https://img.shields.io/badge/SHA--256-OpenTimestamps-333?style=flat-square" />
+
+Na een klacht over één bewindvoerder wijzigden **14 kantoren** hun websites. Openbare bronnen onderzoek naar de structuur van de bewindvoeringssector in Nederland — holdingmaatschappijen, franchiseformules, gedeelde infrastructuur, en gecoördineerde websitewijzigingen. Alle feiten verifieerbaar uit het **Handelsregister**, **rechtspraak.nl**, en publieke **DNS/WHOIS**-gegevens.
+
+[**Bekijk het onderzoek →**](https://wimlee115.github.io/Dossier-608/) · [Broncode](https://github.com/WimLee115/Dossier-608)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [AI-IDLE](https://github.com/WimLee115/ai-idle-platform) `v1.5.0`
