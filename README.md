@@ -78,7 +78,7 @@ wimlee115@github:~$ cat ./identity
 
 **[▸ LeeCrypt](https://github.com/WimLee115/LeeCrypt)** &nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117)
-![stars](https://img.shields.io/github/stars/WimLee115/LeeCrypt?style=flat-square&logo=github&color=f59e0b&labelColor=0d1117)
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-00e5ff?style=flat-square&labelColor=0d1117)
 <br/>Android encrypt / decrypt / hash — AES-256-GCM, ChaCha20-Poly1305, biometric key storage, steganography, NFC/QR. Matrix-inspired UI.
 
 **[▸ pvank](https://github.com/WimLee115/pvank) · [pvank-extension](https://github.com/WimLee115/pvank-extension)** &nbsp;
@@ -130,7 +130,7 @@ wimlee115@github:~$ cat ./identity
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=for-the-badge&logo=github&color=f59e0b&labelColor=0d1117&label=rtl8852au%20%E2%98%85" alt="rtl8852au stars"/>
-  <img src="https://img.shields.io/github/stars/WimLee115/LeeCrypt?style=for-the-badge&logo=github&color=f59e0b&labelColor=0d1117&label=LeeCrypt%20%E2%98%85" alt="LeeCrypt stars"/>
+  <img src="https://img.shields.io/pypi/v/wimsalabim?style=for-the-badge&logo=pypi&logoColor=white&color=00e5ff&labelColor=0d1117&label=wimsalabim%20on%20PyPI" alt="wimsalabim on PyPI"/>
   <img src="https://img.shields.io/badge/public_repos-13-00e5ff?style=for-the-badge&labelColor=0d1117" alt="repos"/>
 </p>
 
