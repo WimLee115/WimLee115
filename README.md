@@ -66,6 +66,11 @@ wimlee115@github:~$ cat ./identity
 
 ### `~/featured` &nbsp;— &nbsp;<sub>selected work</sub>
 
+**[▸ security-research](https://github.com/WimLee115/security-research)** &nbsp;
+![offensive](https://img.shields.io/badge/offensive_security-00ff9c?style=flat-square&labelColor=0d1117)
+![scope](https://img.shields.io/badge/authorized_targets_only-00e5ff?style=flat-square&labelColor=0d1117)
+<br/>Coordinated disclosures (incl. an NCSC-confirmed finding), CTF & lab write-ups, and offensive-security notes — authorized targets only.
+
 **[▸ rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
 ![stars](https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=flat-square&logo=github&color=f59e0b&labelColor=0d1117)
@@ -101,6 +106,7 @@ wimlee115@github:~$ cat ./identity
 
 | Repo | Lang | What it is |
 |---|---|---|
+| **[security-research](https://github.com/WimLee115/security-research)** | Research | Responsible disclosures (incl. an NCSC-confirmed finding), CTF & lab write-ups, offensive-security notes — authorized targets only. |
 | **[rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** | C | Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), DKMS, monitor mode, web dashboard. |
 | **[LeeCrypt](https://github.com/WimLee115/LeeCrypt)** | Kotlin | Android encrypt / decrypt / hash. AES-256-GCM, ChaCha20-Poly1305, biometric keystore, steganography, NFC/QR sharing. |
 | **[pvank](https://github.com/WimLee115/pvank)** · **[pvank-extension](https://github.com/WimLee115/pvank-extension)** | TypeScript | Cryptographic page-sealing from the browser. SHA-256 + OpenTimestamps + Bitcoin. MV3. |
