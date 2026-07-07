@@ -132,10 +132,6 @@ wimlee115@github:~$ cat ./identity
   <img height="170" src="https://streak-stats.demolab.com/?user=WimLee115&hide_border=true&background=0d1117&border=1e40af&stroke=00e5ff&ring=00ff9c&fire=f59e0b&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WimLee115&bg_color=0d1117&color=00ff9c&line=00e5ff&point=f59e0b&area=true&area_color=00ff9c&hide_border=true&custom_title=contribution%20activity" width="100%" alt="activity graph"/>
-</p>
-
 <!-- ══════════════════════════ SNAKE ══════════════════════════ -->
 
 <p align="center">
