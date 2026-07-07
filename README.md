@@ -179,7 +179,7 @@ wimlee115@github:~$ cat ./identity
 
 ```text
 > security disclosures   GitHub Security Advisories on the relevant repository
-> email                  <!-- vul hier je publieke contactadres in -->
+> email                  by request - open an issue on the relevant repo
 > channels               no phone · no social media · no messaging apps
 ```
 
