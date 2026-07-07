@@ -135,7 +135,7 @@ wimlee115@github:~$ cat ./identity
 <!-- ══════════════════════════ SNAKE ══════════════════════════ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg?v=2" width="100%" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg?v=3" width="100%" alt="contribution snake"/>
 </p>
 
 <!-- ══════════════════════════ CONTACT ══════════════════════════ -->
