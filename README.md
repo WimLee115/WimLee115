@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/%E2%9A%91_FOUNDER-PrivacyVerzet_NL-00ff9c?style=for-the-badge&labelColor=0d1117" alt="PVNL"/>
   <img src="https://img.shields.io/badge/MODE-solo_%2F_full--stack-f59e0b?style=for-the-badge&labelColor=0d1117" alt="mode"/>
   <img src="https://komarev.com/ghpvc/?username=WimLee115&style=for-the-badge&color=00ff9c&labelColor=0d1117&label=VISITORS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/WimLee115?style=for-the-badge&logo=github&color=1e40af&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
 </p>
 
 <!-- ══════════════════════════ WHOAMI ══════════════════════════ -->
@@ -65,56 +66,33 @@ wimlee115@github:~$ cat ./identity
 
 ### `~/featured` &nbsp;— &nbsp;<sub>selected work</sub>
 
-<table border="0">
-<tr>
-<td width="50%" valign="top">
+**[▸ rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** &nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
+![stars](https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=flat-square&logo=github&color=f59e0b&labelColor=0d1117)
+<br/>Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), DKMS, stable monitor mode, web dashboard.
 
-<a href="https://github.com/WimLee115/rtl8852au-build">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=rtl8852au-build&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="rtl8852au-build"/>
-</a>
+**[▸ LeeCrypt](https://github.com/WimLee115/LeeCrypt)** &nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117)
+![stars](https://img.shields.io/github/stars/WimLee115/LeeCrypt?style=flat-square&logo=github&color=f59e0b&labelColor=0d1117)
+<br/>Android encrypt / decrypt / hash — AES-256-GCM, ChaCha20-Poly1305, biometric key storage, steganography, NFC/QR. Matrix-inspired UI.
 
-</td>
-<td width="50%" valign="top">
+**[▸ pvank](https://github.com/WimLee115/pvank) · [pvank-extension](https://github.com/WimLee115/pvank-extension)** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+<br/>Cryptographic page-sealing from your browser. SHA-256 + OpenTimestamps + Bitcoin. Chrome + Firefox MV3.
 
-<a href="https://github.com/WimLee115/LeeCrypt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=LeeCrypt&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="LeeCrypt"/>
-</a>
+**[▸ wimsalabim](https://pypi.org/project/wimsalabim/)** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![PyPI](https://img.shields.io/pypi/v/wimsalabim?style=flat-square&logo=pypi&logoColor=white&color=00e5ff&labelColor=0d1117)
+<br/>Honest, audit-grade website security & privacy reconnaissance. Ed25519-signed reports, SARIF 2.1. AGPL-3.0.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**[▸ AI-IDLE](https://ai-idle.nl)** &nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
+![production](https://img.shields.io/badge/status-production-00ff9c?style=flat-square&labelColor=0d1117)
+<br/>Industrial IoT energy-management platform — AI monitoring, anomaly detection & optimization. TimescaleDB · MQTT · Modbus · ENTSO-E.
 
-<a href="https://github.com/WimLee115/pvank-extension">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=pvank-extension&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="pvank-extension"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/WimLee115/wimsalabim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=wimsalabim&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="wimsalabim"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/WimLee115/ai-idle-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=ai-idle-platform&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="ai-idle-platform"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/WimLee115/hacknet-protocol-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WimLee115&repo=hacknet-protocol-game&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&border_color=1e40af" alt="hacknet-protocol-game"/>
-</a>
-
-</td>
-</tr>
-</table>
+**[▸ hacknet-protocol-game](https://github.com/WimLee115/hacknet-protocol-game)** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+<br/>Competitive multiplayer hacking simulator — real-time terminal PvP, 35 commands, 5 classes, ELO, full economy. React 19 · Node · PostgreSQL · Redis · MongoDB.
 
 <details>
 <summary><b><code>$ ls ~/projects --all</code></b> &nbsp;— full index</summary>
@@ -123,14 +101,14 @@ wimlee115@github:~$ cat ./identity
 
 | Repo | Lang | What it is |
 |---|---|---|
-| **[rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** | C | Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), stable monitor mode, DKMS, web dashboard. |
-| **[LeeCrypt](https://github.com/WimLee115/LeeCrypt)** | Kotlin | Android encrypt / decrypt / hash app. AES-256-GCM, ChaCha20-Poly1305, biometric key storage, steganography, NFC/QR sharing — Matrix-inspired UI. |
-| **[pvank](https://github.com/WimLee115/pvank)** · **[pvank-extension](https://github.com/WimLee115/pvank-extension)** | TypeScript | Cryptographic page-sealing from your browser. SHA-256 + OpenTimestamps + Bitcoin. Chrome + Firefox MV3. |
-| **[wimsalabim](https://pypi.org/project/wimsalabim/)** | Python | Honest, audit-grade website security & privacy reconnaissance. Ed25519-signed reports, SARIF 2.1. AGPL-3.0, on PyPI. |
-| **[AI-IDLE](https://ai-idle.nl)** ([platform](https://github.com/WimLee115/ai-idle-platform)) | PHP | Industrial IoT energy-management platform — AI monitoring, anomaly detection & optimization. TimescaleDB · MQTT · Modbus · ENTSO-E. |
+| **[rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** | C | Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), DKMS, monitor mode, web dashboard. |
+| **[LeeCrypt](https://github.com/WimLee115/LeeCrypt)** | Kotlin | Android encrypt / decrypt / hash. AES-256-GCM, ChaCha20-Poly1305, biometric keystore, steganography, NFC/QR sharing. |
+| **[pvank](https://github.com/WimLee115/pvank)** · **[pvank-extension](https://github.com/WimLee115/pvank-extension)** | TypeScript | Cryptographic page-sealing from the browser. SHA-256 + OpenTimestamps + Bitcoin. MV3. |
+| **[wimsalabim](https://pypi.org/project/wimsalabim/)** | Python | Audit-grade website security & privacy reconnaissance. Ed25519-signed, SARIF 2.1. On PyPI. |
+| **[AI-IDLE](https://ai-idle.nl)** | PHP | Industrial IoT energy-management platform. TimescaleDB · MQTT · Modbus · ENTSO-E. |
 | **[PrivacyTools](https://github.com/WimLee115/PrivacyTools)** | Shell | WimsPrivacyScanner — quick CLI privacy-posture checks. |
 | **[repolyzer](https://github.com/WimLee115/repolyzer)** | Python | Instant, beautiful insights about any codebase. Like `neofetch`, but for repos. |
-| **[hacknet-protocol-game](https://github.com/WimLee115/hacknet-protocol-game)** | TypeScript | Competitive multiplayer hacking simulator — real-time terminal PvP, 35 commands, 5 classes, ELO, full economy. React 19 · Node · PostgreSQL · Redis · MongoDB. |
+| **[hacknet-protocol-game](https://github.com/WimLee115/hacknet-protocol-game)** | TypeScript | Multiplayer hacking simulator. React 19 · Node · PostgreSQL · Redis · MongoDB. |
 
 </details>
 
@@ -145,12 +123,13 @@ wimlee115@github:~$ cat ./identity
 ### `~/telemetry` &nbsp;— &nbsp;<sub>(on my own work, never on yours)</sub>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WimLee115&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00e5ff&text_color=c9d1d9&ring_color=00ff9c" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WimLee115&hide_border=true&background=0d1117&border=1e40af&stroke=00e5ff&ring=00ff9c&fire=f59e0b&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+  <img src="https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=for-the-badge&logo=github&color=f59e0b&labelColor=0d1117&label=rtl8852au%20%E2%98%85" alt="rtl8852au stars"/>
+  <img src="https://img.shields.io/github/stars/WimLee115/LeeCrypt?style=for-the-badge&logo=github&color=f59e0b&labelColor=0d1117&label=LeeCrypt%20%E2%98%85" alt="LeeCrypt stars"/>
+  <img src="https://img.shields.io/badge/public_repos-13-00e5ff?style=for-the-badge&labelColor=0d1117" alt="repos"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WimLee115&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top languages"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=WimLee115&hide_border=true&background=0d1117&border=1e40af&stroke=00e5ff&ring=00ff9c&fire=f59e0b&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 </p>
 
 <p align="center">
@@ -160,17 +139,7 @@ wimlee115@github:~$ cat ./identity
 <!-- ══════════════════════════ SNAKE ══════════════════════════ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
-  </picture>
-</p>
-
-<!-- ══════════════════════════ TROPHIES ══════════════════════════ -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WimLee115&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" width="100%"/>
+  <img src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg?v=2" width="100%" alt="contribution snake"/>
 </p>
 
 <!-- ══════════════════════════ CONTACT ══════════════════════════ -->
