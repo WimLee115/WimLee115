@@ -1,9 +1,9 @@
 
-        N
+            N
    \    |    /
  W ─────┼───── O
    /    |    \
-        Z
+            Z
 
  positie   onbekend — precies de bedoeling
  lading    drivers · crypto · recon · dossiers
