@@ -1,168 +1,123 @@
-<!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<a name="top"></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0d1117,45:00ff9c,100:00e5ff&text=WimLee115&fontSize=76&fontColor=e6fffb&fontAlignY=40&desc=security%20//%20crypto%20//%20privacy%20//%20linux%20//%20IoT&descSize=17&descAlignY=60&descColor=c9d1d9&animation=fadeIn" width="100%" alt="WimLee115"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=00FF9C&center=true&vCenter=true&width=840&height=46&lines=root%40wimlee115%3A~%24+whoami;%3E+solo+software+engineer+%2F+Netherlands;%3E+founder+-+PrivacyVerzet+NL;%3E+audit-grade%2C+zero-telemetry+systems;%3E+Unable+to+comply%2C+building+in+progress..." alt="typing"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D_NETHERLANDS-Noord_Brabant-00e5ff?style=for-the-badge&labelColor=0d1117" alt="NL"/>
-  <img src="https://img.shields.io/badge/%E2%9A%91_FOUNDER-PrivacyVerzet_NL-00ff9c?style=for-the-badge&labelColor=0d1117" alt="PVNL"/>
-  <img src="https://img.shields.io/badge/MODE-solo_%2F_full--stack-f59e0b?style=for-the-badge&labelColor=0d1117" alt="mode"/>
-  <img src="https://komarev.com/ghpvc/?username=WimLee115&style=for-the-badge&color=00ff9c&labelColor=0d1117&label=VISITORS" alt="views"/>
-  <img src="https://img.shields.io/github/followers/WimLee115?style=for-the-badge&logo=github&color=1e40af&labelColor=0d1117&label=FOLLOWERS" alt="followers"/>
-</p>
-
-<!-- ══════════════════════════ WHOAMI ══════════════════════════ -->
-
-```bash
-wimlee115@github:~$ cat ./identity
-
-  ENGINEER   solo software engineer — end-to-end, device firmware → web dashboard
-  DOMAINS    industrial IoT · applied cryptography · web-security tooling
-             kernel-level Linux drivers · Android apps
-  PRINCIPLE  no telemetry · no analytics · no third-party trackers
-  CHAIN      Ed25519 signatures → SHA-256 → OpenTimestamps → Bitcoin
-  LICENSE    open-source where it fits · proprietary where the business case demands
-  STATUS     [ building in progress ]  ▓▓▓▓▓▓▓▓▓░░  relentless
+```text
+────────────────────────────────────────
+ █   █ ███ █   █ █   ███ ███  █  █ ███
+ █   █  █  ██ ██ █   █   █   ██ ██ █
+ █ █ █  █  █ █ █ █   ███ ███  █  █ ███
+ ██ ██  █  █   █ █   █   █    █  █   █
+ █   █ ███ █   █ ███ ███ ███ ██ ██ ███
+────────────────────────────────────────
+ K A P I T E I N   V A N   H E T
+ P R I V A C Y V E R Z E T
+────────────────────────────────────────
 ```
 
-<!-- ══════════════════════════ STACK ══════════════════════════ -->
+<div align="center">
+  <img alt="Aan boord. Anoniem. Onverzettelijk." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=19&amp;duration=3600&amp;pause=1200&amp;color=FF6A00&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=46&amp;lines=Aan+boord.+Anoniem.+Onverzettelijk." />
+</div>
 
-### `~/stack` &nbsp;— &nbsp;<sub>toolchain</sub>
+<sub><b>EN</b> — Captain WimLee115, out of the Netherlands. Wi-Fi driver work, cryptographic proof, privacy tooling. The log is in Dutch; the fleet below is described in English.</sub>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117)
+## ▌ LOGBOEK
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node_22-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=0d1117)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0d1117)
+```text
+        N
+   \    |    /
+ W ─────┼───── O
+   /    |    \
+        Z
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_TimescaleDB-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
+ positie   onbekend — precies de bedoeling
+ lading    drivers · crypto · recon · dossiers
+ vlag      AGPL-3.0 waar het telt
+ koers     tegen de stroom in
+```
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white&labelColor=0d1117)
-![Ed25519](https://img.shields.io/badge/Ed25519-00ff9c?style=flat-square&logoColor=black&labelColor=0d1117)
-![AES--256--GCM](https://img.shields.io/badge/AES--256--GCM-00e5ff?style=flat-square&logoColor=black&labelColor=0d1117)
-![ChaCha20](https://img.shields.io/badge/ChaCha20--Poly1305-00e5ff?style=flat-square&logoColor=black&labelColor=0d1117)
-![OpenTimestamps](https://img.shields.io/badge/OpenTimestamps-f7931a?style=flat-square&logo=bitcoin&logoColor=white&labelColor=0d1117)
+```ini
+# /etc/captain.conf
 
-<!-- ══════════════════════════ FEATURED ══════════════════════════ -->
+[kompas]
+soevereiniteit = jouw data, jouw sleutels
+anonimiteit    = standaard, niet betaald
+verzet         = nee is een geldig antwoord
+vakmanschap    = getest en ondertekend
+open_zee       = broncode open
+```
 
-### `~/featured` &nbsp;— &nbsp;<sub>selected work</sub>
+Ik bouw gereedschap dat werkt zónder dat je iemand hoeft te vertrouwen. Geen account, geen cloud, geen belofte op erewoord.
 
-**[▸ security-research](https://github.com/WimLee115/security-research)** &nbsp;
-![offensive](https://img.shields.io/badge/offensive_security-00ff9c?style=flat-square&labelColor=0d1117)
-![scope](https://img.shields.io/badge/authorized_targets_only-00e5ff?style=flat-square&labelColor=0d1117)
-<br/>Coordinated disclosures (incl. an NCSC-confirmed finding), CTF & lab write-ups, and offensive-security notes — authorized targets only.
+Wat in de vloot staat kun je klonen en nalezen — en wat je niet kunt controleren, moet je niet geloven, ook van mij niet. Wat privé is blijft privé; dat is geen geheimzinnigheid, dat is precies het punt.
 
-**[▸ rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** &nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117)
-![stars](https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=flat-square&logo=github&color=f59e0b&labelColor=0d1117)
-<br/>Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), DKMS, stable monitor mode, web dashboard.
+## ▌ DE VLOOT
 
-**[▸ LeeCrypt](https://github.com/WimLee115/LeeCrypt)** &nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0d1117)
-![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-00e5ff?style=flat-square&labelColor=0d1117)
-<br/>Android encrypt / decrypt / hash — AES-256-GCM, ChaCha20-Poly1305, biometric key storage, steganography, NFC/QR. Matrix-inspired UI.
+Geen beloftes. Klonen kan.
 
-**[▸ pvank](https://github.com/WimLee115/pvank) · [pvank-extension](https://github.com/WimLee115/pvank-extension)** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-<br/>Cryptographic page-sealing from your browser. SHA-256 + OpenTimestamps + Bitcoin. Chrome + Firefox MV3.
+**[rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** · vlaggenschip · C<br />
+[![sterren](https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=flat-square&label=sterren&labelColor=0B0B0D&color=FF6A00)](https://github.com/WimLee115/rtl8852au-build/stargazers)<br />
+Out-of-tree Linux driver for Realtek RTL8852AU / RTL8832AU Wi-Fi 6 USB adapters. Kernel 6.17+ (tested up to 7.0), DKMS packaging, stable monitor mode and a web dashboard. Your radio, your rules.
 
-**[▸ wimsalabim](https://pypi.org/project/wimsalabim/)** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![PyPI](https://img.shields.io/pypi/v/wimsalabim?style=flat-square&logo=pypi&logoColor=white&color=00e5ff&labelColor=0d1117)
-<br/>Honest, audit-grade website security & privacy reconnaissance. Ed25519-signed reports, SARIF 2.1. AGPL-3.0.
+**[wimsalabim](https://github.com/WimLee115/wimsalabim)** · verkenner · Python · AGPL-3.0<br />
+[![pypi](https://img.shields.io/pypi/v/wimsalabim?style=flat-square&label=pypi&labelColor=0B0B0D&color=00E676)](https://pypi.org/project/wimsalabim/)<br />
+Honest website security and privacy reconnaissance. Ed25519-signed reports, SARIF 2.1 output, no vendor spin. Install with `pip install wimsalabim`.
 
-**[▸ AI-IDLE](https://ai-idle.nl)** &nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117)
-![production](https://img.shields.io/badge/status-production-00ff9c?style=flat-square&labelColor=0d1117)
-<br/>Industrial IoT energy-management platform — AI monitoring, anomaly detection & optimization. TimescaleDB · MQTT · Modbus · ENTSO-E.
+**[pvank](https://github.com/WimLee115/pvank)** · zegelkamer · TypeScript · AGPL-3.0<br />
+Cryptographic proof for everyone: SHA-256 hashing plus OpenTimestamps, anchored in the Bitcoin blockchain. Prove a document existed on a given day. No notary, no trust, no invoice.<br />
+<sub><b>[pvank-extension](https://github.com/WimLee115/pvank-extension)</b> — seal a page straight from your browser. Chrome and Firefox, MV3.</sub>
 
-**[▸ hacknet-protocol-game](https://github.com/WimLee115/hacknet-protocol-game)** &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
-<br/>Competitive multiplayer hacking simulator — real-time terminal PvP, 35 commands, 5 classes, ELO, full economy. React 19 · Node · PostgreSQL · Redis · MongoDB.
+**[keytool](https://github.com/WimLee115/keytool)** · net van stapel · Rust · AGPL-3.0<br />
+OpenPGP key generation on Curve25519 through sequoia-openpgp. Keys land in the gpg keyring, gpg-agent guards the private material. Library first, thin CLI on top. Don't roll your own crypto.
+
+**[LeeCrypt](https://github.com/WimLee115/LeeCrypt)** · Kotlin<br />
+Android encrypt / decrypt / hash. AES-256-GCM and ChaCha20-Poly1305, biometric key storage, steganography, transfer over NFC and QR.
+
+**[security-research](https://github.com/WimLee115/security-research)** · uitkijkpost<br />
+Responsible disclosures, CTF and lab write-ups. Authorised targets only, no exceptions.
+
+**[project115](https://github.com/WimLee115/project115)** · leerschip · TypeScript<br />
+Offline study hub for ITIL Foundation (v5) and EXIN Information Security Foundation (ISO/IEC 27001). Mock exams under real conditions, spaced repetition, per-objective progress. Full source in the repository — an app that claims it sends nothing should let you check.
 
 <details>
-<summary><b><code>$ ls ~/projects --all</code></b> &nbsp;— full index</summary>
+<summary><b>▌ AAN DE KADE</b> — kleiner tuig, wel echt</summary>
 
-<br/>
-
-| Repo | Lang | What it is |
-|---|---|---|
-| **[security-research](https://github.com/WimLee115/security-research)** | Research | Responsible disclosures (incl. an NCSC-confirmed finding), CTF & lab write-ups, offensive-security notes — authorized targets only. |
-| **[rtl8852au-build](https://github.com/WimLee115/rtl8852au-build)** | C | Out-of-tree Linux driver for Realtek RTL8852AU/RTL8832AU WiFi 6 USB adapters — kernel 6.17+ (verified to 7.0), DKMS, monitor mode, web dashboard. |
-| **[LeeCrypt](https://github.com/WimLee115/LeeCrypt)** | Kotlin | Android encrypt / decrypt / hash. AES-256-GCM, ChaCha20-Poly1305, biometric keystore, steganography, NFC/QR sharing. |
-| **[pvank](https://github.com/WimLee115/pvank)** · **[pvank-extension](https://github.com/WimLee115/pvank-extension)** | TypeScript | Cryptographic page-sealing from the browser. SHA-256 + OpenTimestamps + Bitcoin. MV3. |
-| **[wimsalabim](https://pypi.org/project/wimsalabim/)** | Python | Audit-grade website security & privacy reconnaissance. Ed25519-signed, SARIF 2.1. On PyPI. |
-| **[AI-IDLE](https://ai-idle.nl)** | PHP | Industrial IoT energy-management platform. TimescaleDB · MQTT · Modbus · ENTSO-E. |
-| **[PrivacyTools](https://github.com/WimLee115/PrivacyTools)** | Shell | WimsPrivacyScanner — quick CLI privacy-posture checks. |
-| **[repolyzer](https://github.com/WimLee115/repolyzer)** | Python | Instant, beautiful insights about any codebase. Like `neofetch`, but for repos. |
-| **[hacknet-protocol-game](https://github.com/WimLee115/hacknet-protocol-game)** | TypeScript | Multiplayer hacking simulator. React 19 · Node · PostgreSQL · Redis · MongoDB. |
+| Repo | Wat het is |
+| --- | --- |
+| **[Dossier608](https://github.com/WimLee115/Dossier608)** | Aankondiging van vier jaar onderzoek naar de Nederlandse bewindvoeringssector, vanuit één cliëntdossier. |
+| **[ECLI-s](https://github.com/WimLee115/ECLI-s)** | Nederlandse rechtspraak over bewind, mentorschap en curatele. |
+| **[github-leesmij](https://github.com/WimLee115/github-leesmij)** | GitHub uitgelegd in gewoon Nederlands. |
 
 </details>
 
-<!-- ══════════════════════════ MANIFEST ══════════════════════════ -->
+<details>
+<summary><b>▌ OVERBOORD</b> — wat er niet meer vaart</summary>
 
-> [!NOTE]
-> **⚑ PrivacyVerzet NL** — privacy is not a feature, it is the default.
-> Zero telemetry. Zero analytics. Zero trackers. Every release ships with strict typing, end-to-end tests, and a verifiable cryptographic chain: **Ed25519 → SHA-256 → OpenTimestamps → Bitcoin**.
+**PrivacyTools** — laatste push 26 februari 2026. Ligt stil.<br />
+**repolyzer** — laatste push 26 februari 2026. Ligt ook stil.<br />
+**hacknet-protocol-game** — een publieke map met een LICENSE en een README, verder niets. De code staat privé.
 
-<!-- ══════════════════════════ STATS ══════════════════════════ -->
+Publiek en te klonen, maar er beweegt niets. Een lege etalage is geen vloot — daarom staan ze hier.
 
-### `~/telemetry` &nbsp;— &nbsp;<sub>(on my own work, never on yours)</sub>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/WimLee115/rtl8852au-build?style=for-the-badge&logo=github&color=f59e0b&labelColor=0d1117&label=rtl8852au%20%E2%98%85" alt="rtl8852au stars"/>
-  <img src="https://img.shields.io/pypi/v/wimsalabim?style=for-the-badge&logo=pypi&logoColor=white&color=00e5ff&labelColor=0d1117&label=wimsalabim%20on%20PyPI" alt="wimsalabim on PyPI"/>
-  <img src="https://img.shields.io/badge/public_repos-13-00e5ff?style=for-the-badge&labelColor=0d1117" alt="repos"/>
-</p>
+## ▌ KIELZOG
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=WimLee115&hide_border=true&background=0d1117&border=1e40af&stroke=00e5ff&ring=00ff9c&fire=f59e0b&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
-</p>
+<div align="center">
+  <img alt="contributieslang die het commitspoor van het afgelopen jaar opeet" width="100%" src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg" />
+  <br /><br />
+  <img alt="wachtlopen: commitreeks van WimLee115" src="https://streak-stats.demolab.com?user=WimLee115&amp;hide_border=true&amp;background=0B0B0D&amp;stroke=FF6A00&amp;ring=FF6A00&amp;fire=FF6A00&amp;currStreakNum=FFFFFF&amp;currStreakLabel=FF6A00&amp;sideNums=00E676&amp;sideLabels=FFFFFF&amp;dates=8B8B8B" />
+</div>
 
-<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WimLee115/WimLee115/output/github-snake-dark.svg?v=3" width="100%" alt="contribution snake"/>
-</p>
-
-<!-- ══════════════════════════ CONTACT ══════════════════════════ -->
-
-### `~/contact`
+## ▌ SEINEN
 
 ```text
-> security disclosures   GitHub Security Advisories on the relevant repository
-> email                  by request - open an issue on the relevant repo
-> channels               no phone · no social media · no messaging apps
+ overleg      open een issue, dat is het adres
+ disclosures  GitHub Security Advisories
+              op de repo in kwestie
+ kanalen      geen telefoon · geen chat-apps
+              geen sociale media
 ```
 
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=110&section=footer&color=0:00e5ff,55:00ff9c,100:0d1117" width="100%" alt=""/>
-</p>
-
-<p align="center">
-  <sub><code>WimLee115</code> · solo software engineer · Netherlands 🇳🇱 · <b>PrivacyVerzet NL</b></sub><br/>
-  <sub>crypto · IoT · privacy · linux · android · industrial automation</sub>
-</p>
-
-<p align="center"><a href="#top">▲ back to top</a></p>
+```text
+────────────────────────────────────────
+ einde logboek · WimLee115
+ unable to comply, building in progress
+────────────────────────────────────────
+```
