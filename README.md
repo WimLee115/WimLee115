@@ -1,25 +1,4 @@
-```text
-────────────────────────────────────────
- █   █ ███ █   █ █   ███ ███  █  █ ███
- █   █  █  ██ ██ █   █   █   ██ ██ █
- █ █ █  █  █ █ █ █   ███ ███  █  █ ███
- ██ ██  █  █   █ █   █   █    █  █   █
- █   █ ███ █   █ ███ ███ ███ ██ ██ ███
-────────────────────────────────────────
- K A P I T E I N   V A N   H E T
- P R I V A C Y V E R Z E T
-────────────────────────────────────────
-```
 
-<div align="center">
-  <img alt="Aan boord. Anoniem. Onverzettelijk." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=19&amp;duration=3600&amp;pause=1200&amp;color=FF6A00&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=46&amp;lines=Aan+boord.+Anoniem.+Onverzettelijk." />
-</div>
-
-<sub><b>EN</b> — Captain WimLee115, out of the Netherlands. Wi-Fi driver work, cryptographic proof, privacy tooling. The log is in Dutch; the fleet below is described in English.</sub>
-
-## ▌ LOGBOEK
-
-```text
         N
    \    |    /
  W ─────┼───── O
