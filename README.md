@@ -1,7 +1,7 @@
 Hi, I'm Wim (WimLee115). Security specialist in training, open-source developer, and builder of verifiable security & privacy tools.
 
 **What I focus on:**
-🐧 Linux kernel drivers (RTL8852AU WiFi 6, DKMS, monitor mode)
+🐧 Linux kernel drivers — [rtl8852au-build](https://github.com/WimLee115/rtl8852au-build) (RTL8852AU WiFi 6, DKMS, monitor mode)
 🔐 Cryptography & proof-of-existence (OpenPGP, Ed25519, OpenTimestamps)
 🛡️ Detection engineering & blue team tools (tamper-evident logging, adversary emulation)
 🔓 Privacy tooling (no cloud, no account, no trust required)
