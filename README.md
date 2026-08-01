@@ -15,7 +15,7 @@ je niet kunt controleren, moet je niet geloven.
 > out-of-tree Wi-Fi 6 kernel driver, signed audit-grade web recon, cryptographic
 > proof-of-existence, and a blue/red/purple detection-engineering suite. Open to
 > security roles in the Netherlands (SOC / blue team, detection engineering,
-> appsec, security tooling). Contact: **bvanrooij@hotmail.nl**.
+> appsec, security tooling). Contact: **almass-only@protonmail.com**.
 
 ---
 
