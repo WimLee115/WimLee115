@@ -106,5 +106,5 @@ Publiek en te klonen, maar er beweegt niets meer.
 
 ## Contact
 
-- **Voor werkgevers en recruiters:** **bvanrooij@hotmail.nl**
+- **Voor werkgevers en recruiters:** **almass-only@protonmail.com**
 - **Kwetsbaarheden:** GitHub Security Advisories op de betreffende repo.
