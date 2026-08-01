@@ -32,7 +32,7 @@ je niet kunt controleren, moet je niet geloven.
 Eerlijk over de status: dit is waar ik mee bezig ben, niet wat al op een muur hangt.
 
 - **CompTIA Security+** — in voorbereiding (met een eigen offline studiehub).
-- **ITIL 4 Foundation** en **EXIN Information Security Foundation (ISO/IEC 27001)** — in studie via [project115](https://github.com/WimLee115/project115).
+- **ITIL v5 Foundation** en **EXIN Information Security Foundation (ISO/IEC 27001)** — in studie via [project115](https://github.com/WimLee115/project115).
 - Doorlopend: hands-on netwerk-, wifi- en detectiewerk in eigen labs (zie hieronder).
 
 ## Vaardigheden
